@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding: 0 10px
 }
 
 .App-logo {
@@ -35,4 +36,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+.oop{
+  padding:0 7%;
+  text-align:left;
+}
+.rt{
+  margin:auto;
+}
+.pyu{
+  text-align:left;
 }
